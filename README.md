@@ -1,1 +1,2 @@
-# Repositório da disciplina de Modelagem.
+# Modelagem
+Repositório da disciplina de Modelagem.
